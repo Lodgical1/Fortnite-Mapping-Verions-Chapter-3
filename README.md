@@ -1,13 +1,11 @@
-# Fortnite-Mapping-Verions
-This repository is going to list all chapter 3 season 3 mapping files and above
-Latest Backup: 21.50
-I would like to mention that fortnite platform mappings do not matter because
-the contents are all the same for the game to fuction properly so it's going
-to be the same for everything.
+# Fortnite Mapping Files
+Made for FModel and available for download.
+Reminder: Fortnite Platform Mappings do not matter it will always show the same files
 
-Latest will be at the top, older mappings will be at the bottom. REMINDER: These files are ment for FModel
-download at fmodel.app
+# Downloads
 
--------------------------------------
-# Fortnite Mapping File 22.00 (Latest)
-Mapping: https://drive.google.com/file/d/1Hw5yCeTe8RAAo3KfXkgTSuKhTp5AtRru/view?usp=sharing
+# Chapter 3 Season 4
+| Version                  	     |		    Link           | Platform |
+| ------------------------------ | --------------------- | -------- |
+| 22.00        	    	       |		https://drive.google.com/file/d/1Hw5yCeTe8RAAo3KfXkgTSuKhTp5AtRru/view?usp=sharing| Android|
+| 22.10         	         	 |		Coming Soon| To be seen|
