@@ -1,5 +1,6 @@
 # Fortnite Mapping Files
 Made for FModel and available for download.
+|-----------------------------------------------------|
 Reminder: Fortnite Platform Mappings do not matter it will always show the same files
 
 # Downloads
