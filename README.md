@@ -5,7 +5,7 @@ Made for FModel and available for download.
 Reminder: Fortnite Platform Mappings do not matter it will always show the same files
 
 # Announcement
-Since C3S4 is rumord to end Chapter 3 I will be making a new repository for Chapter 4. Sorry that this repository is not so big
+Since C3S4 is rumord to end Chapter 3 I will be making a new repository for Chapter 4. Sorry that this repository is not so big although the link is coming soon.
 
 # Chapter 3 Season 4
 | Mapping Version                  	     |		    Link to Mapping          |  Mapping Platform |
