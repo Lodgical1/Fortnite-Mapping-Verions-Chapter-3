@@ -9,4 +9,5 @@ Reminder: Fortnite Platform Mappings do not matter it will always show the same 
 | ------------------------------ | --------------------- | -------- |
 | 22.00 |		https://drive.google.com/file/d/1Hw5yCeTe8RAAo3KfXkgTSuKhTp5AtRru/view?usp=sharing| Android|
 | 22.10 |		https://drive.google.com/file/d/19vxtAmI9HaizERgDtXRZOqjYG8cgY9DN/view?usp=sharing| Android|
-| 22.20 |		COMING SOON| Unkown|
+| 22.20 |		https://drive.google.com/file/d/1BrP8cJ0ZEMPrkPVIaacEk7KehMoBXjvo/view?usp=sharing| Android|
+| 22.30 |   Coming Soon | Android|
